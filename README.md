@@ -9,6 +9,7 @@ Aspiring Data Analyst focused on:
 
 ## Projects
 - Banking Fraud Detection Analysis (https://github.com/danilmisterio-prog/banking-fraud-analysis)
+- Chess Matches Win Rate Analysis (https://github.com/danilmisterio-prog/chess_matches_analysis)
 
 ## Currently Learning
 - Advanced pandas
