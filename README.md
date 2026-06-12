@@ -8,6 +8,7 @@ Aspiring Data Analyst focused on:
 - Exploratory Data Analysis
 
 ## Projects
+- Cryptocurrency Time Series Forecasting (https://github.com/danilmisterio-prog/digital_currency_time_series_analysis)
 - Banking Fraud Detection Analysis (https://github.com/danilmisterio-prog/banking-fraud-analysis)
 - Chess Matches Win Rate Analysis (https://github.com/danilmisterio-prog/chess_matches_analysis)
 
