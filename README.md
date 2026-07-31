@@ -1,6 +1,6 @@
 # Hi, I'm Danylo 
 
-Aspiring Data Analyst focused on:
+Data Analyst focused on:
 - Python
 - pandas
 - SQL
