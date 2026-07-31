@@ -15,16 +15,12 @@ Aspiring Data Analyst focused on:
 - Banking Fraud Detection Analysis (https://github.com/danilmisterio-prog/banking-fraud-analysis)
 - Chess Matches Win Rate Analysis (https://github.com/danilmisterio-prog/chess_matches_analysis)
 
-## Currently Learning
-- Advanced pandas
-- SQL
-- Statistical Analysis
-- Data Visualization
-
 ## Tools
 - Python
+- PowerBI
+- Google Looker Studio
 - pandas
 - matplotlib
 - seaborn
-- GitHub
 - Google Colab
+- Microsoft Office
